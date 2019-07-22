@@ -1,1 +1,25 @@
+body {
 
+	background-color: black;
+	color:white;
+	font-family: Times New Roman;
+
+
+}
+
+
+a {
+	color:green;
+}
+
+.Fruit{
+	color:blue;
+}
+
+.Meat{
+	color:orange;
+}
+
+#Introduction{
+	background-color: green
+}
