@@ -3,8 +3,6 @@ body {
 	background-color: black;
 	color:white;
 	font-family: Times New Roman;
-
-
 }
 
 
@@ -21,5 +19,32 @@ a {
 }
 
 #Introduction{
-	background-color: green
+	background-color: green;
+}
+
+.sidebar{
+	background-color: pink;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 200px;
+	height:100%;
+	
+	
+}
+
+.content{
+	position: absolute;
+	top: 0px;
+	left: 200px;
+}
+
+.title{
+	height: 60px;
+	width: 100%;
+}
+
+.container{
+	position: relative;
+	height: 1000px;
 }
